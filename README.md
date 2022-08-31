@@ -1,3 +1,5 @@
+# Our object:
+
 The objective of this project is to use all the tools acquired to develop a general project of an app using the tools used, in this case being from the front-end we have react, redux, css, tailwind, javascript.
 
 # Getting Started with Create React App
